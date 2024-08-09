@@ -1,0 +1,29 @@
+.resultMeans-container {
+    height: 500px;
+    display: flex;
+}
+
+.resultMeans-right, .resultMeans-left {
+    width: 50%;
+    height: 100%;
+}
+
+.resultMeans-right p {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.resultMeans-right h2 {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30%;
+    font-size: 38px;
+    max-width: 80%;
+    line-height: 40px;
+}
+
+.resultMeans-left img {
+    width: 80%;
+    margin-left: 10%;
+}
